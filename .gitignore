@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Environment Variables
+.env
+
+# Data and Storage
+backend/uploads/
+backend/chroma_db/
+chroma_db/
+uploads/
+
+# IDE/System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
